@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import ttk, messagebox
+from tkinter import ttk
 import random
 
 c1 = {
@@ -79,3 +79,4 @@ res_label = tk.Label(win, text="", font=("tahoma", 17))
 res_label.pack(pady=10)
 
 win.mainloop()
+
